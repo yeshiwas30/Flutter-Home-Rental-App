@@ -13,6 +13,10 @@ User Profiles: Personalized user profiles for managing favorites, booking histor
 Installation and Usage
 Clone the Repository:git clone https://github.com/yeshiwas30/Flutter-Home-Rental-App.git
 
-Install Dependencies:cd Flutter-Home-Rental-App
+Install Dependencies:
+
+cd Flutter-Home-Rental-App
+
 flutter pub get
+
 flutter run

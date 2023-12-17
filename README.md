@@ -2,17 +2,17 @@
 # Front End Flutter Bloc Architecture
 # Back End Node Js
 
-An application designed for making home rentals easier. Lets landlords post their homes and let renters view available homes for rent, while also allowing landlords and tenants communicate with each other.
+This repository contains the source code for a Flutter-based mobile application designed for home rentals. The app provides a user-friendly interface for users to discover, explore, and book rental properties.
 
 # Feature list
 
-### Feature 1:-
+Property Listings: Browse a wide range of rental properties with detailed information like price, location, amenities, and images.
+Search and Filters: Search for properties based on location, price range, property type, and more, with advanced filtering options.
+User Profiles: Personalized user profiles for managing favorites, booking history, and settings.
 
-    	Post and view rooms/apartments/ houses for rent.
+Installation and Usage
+Clone the Repository:git clone https://github.com/yeshiwas30/Flutter-Home-Rental-App.git
 
-### Feature 2:-
-
-    	Allow tenants to communicate with their existing landlords.
-
-
-# HomeRenting-
+Install Dependencies:cd Flutter-Home-Rental-App
+flutter pub get
+flutter run
